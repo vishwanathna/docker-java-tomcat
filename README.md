@@ -243,19 +243,19 @@ Screenshots demonstrating the deployment process will be added here.
 
 ### Running Container
 
-![Docker Container](docs/screenshots/02-docker-container.png)
+![Docker Container](docs/screenshots/02-docker-container.png.png)
 
 ### Tomcat Logs
 
-![Tomcat Logs](docs/screenshots/03-tomcat-logs.png)
+![Tomcat Logs](docs/screenshots/03-tomcat-logs.png.png)
 
 ### AWS Security Group
 
-![AWS Security Group](docs/screenshots/04-security-group.png)
+![AWS Security Group](docs/screenshots/04-security-group.png.png)
 
 ### TaskBoard Application
 
-![TaskBoard Application](docs/screenshots/05-taskboard.png)
+![TaskBoard Application](docs/screenshots/05-taskboard.png.png)
 
 ---
 
