@@ -239,7 +239,7 @@ Screenshots demonstrating the deployment process will be added here.
 
 ### Docker Image
 
-![Docker Image](docs/screenshots/01-docker-image.png)
+![Docker Image](docs/screenshots/01-docker-image.png.png)
 
 ### Running Container
 
